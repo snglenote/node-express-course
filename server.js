@@ -30,7 +30,7 @@ app.post('/login', function(req, res) {
     const password = req.body.password;
 
     const mockUsername = "snglenote";
-    const mockPassword = "snglenote1207";
+    const mockPassword = "notsnglenoteuwu0303";
 
     if (username === mockUsername && password === mockPassword) {
         res.json({
